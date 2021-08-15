@@ -14,6 +14,10 @@
 - 💥HTML
 - 🔹CSS 
 
+## - Contacts :
+- 📩 `unusualabsurd@yahoo.com`[ Barely read them emails ]
+- 🟣 `UnusualAbsurd ᵈᵉᵛ#2908`
+
 </br>
 </br>
 </br>
