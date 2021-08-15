@@ -2,12 +2,17 @@
 
 ### - I'm a 14 years old boy who is bored and just makes random things.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://66.media.tumblr.com/4ecbe2d1dfe5b036473698a327ab4bce/e7dba1dd3de9daae-5c/s540x810/d6f2ac25d91bcad8886661702e5a559efe18268f.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.discordapp.net/attachments/837556303659663371/876379129904246784/MemeSteal.jpg?width=469&height=281">
 
 ### - Hobbies : 
 - 💫 Make random shitty things.
 - 🏴‍☠️ Watching One Piece.
 - 🍜 Eat
+
+### - Languages :
+- 🔱JavaScript
+- 💥HTML
+- 🔹CSS 
 
 </br>
 </br>
