@@ -1,4 +1,4 @@
-# About ME 💬 :
+# Github profile to look cool 😎
 
 ### - I'm a 14 years old boy who is bored and just makes random things.
 
