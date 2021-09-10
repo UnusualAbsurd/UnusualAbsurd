@@ -11,8 +11,7 @@
 
 ### - Languages :
 - 🔱JavaScript
-- 💥HTML
-- 🔹CSS 
+- 🌠TypeScript 
 
 ## - Contacts :
 - 📩 `unusualabsurd@yahoo.com`[ Barely read them emails ]
