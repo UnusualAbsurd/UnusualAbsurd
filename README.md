@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/avatars/746721583804055634/d5fc98b255b60f11f401ff8ae92679b1.png?size=256" />
+<img src="https://avatars.githubusercontent.com/u/78838768?v=4" />
 </div>
 
 <h2 align="center">
@@ -26,6 +26,9 @@
     </a>
     <a href="mailto:unusualabsurd@yahoo.com" target="_blank">
         <img src="https://img.shields.io/badge/-Yahoo-430297?logo=yahoo&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
+    </a>
+     <a href="https://github.com/Dank-Gamer" target="_blank">
+        <img src="https://img.shields.io/badge/-Dank Gamer Organization-32C684?logo=github&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
     </a>
 </p>
 
