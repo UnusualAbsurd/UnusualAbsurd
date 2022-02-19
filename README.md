@@ -1,18 +1,13 @@
 <div align="center">
-   <img src="https://avatars.githubusercontent.com/u/78838768?v=4" width="200"/>
+<img src="/github-banner.png" alt="Header" height="250" >
 </div>
-<h2 align="center">
-   Wassup! 👋
-</h2>
-<p align="center">
-   <b>Hello! I am UnusualAbsurd, you can call me abs.</b>
-</p>
-<p align="center">
-   Welcome to my github profile! I see you are here 👀 , have fun taking a look at my repos! 
-</p>
-<br />
 
-* ## Website : https://unusualdev.netlify.app <br />
-* ## Current Project : https://awezome.netlify.app
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacmard&layout=compact&theme=radical)
-<img  src="https://github-readme-stats.vercel.app/api?username=UnusualABsurd&&show_icons=true&theme=tokyonight"/>
+I'm a 14 years old boy who just found programming. I use typescript and javascript. I am currently learning react or nextjs
+
+<img align='right' src='https://i.imgur.com/uUpXta5.gif' width='250'>
+
+
+[![Discord Badge](https://img.shields.io/badge/-UnusualAbsurd-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://www.discord.com/users/746721583804055634)](https://www.linkedin.com/in/jayraj-roshan/)
+[![Website Badge](https://img.shields.io/badge/-unusualdev.netlify.app-blue?style=flat-square&logo=React&logoColor=white&link=https://jayraj.co.in/)](https://unusualdev.netlify.app/)
+[![Yahoo Badge](https://img.shields.io/badge/-unusualabsurd@yahoo.com-430297?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:unusualabsurd@yahoo.com)](mailto:unusualabsurd@yahoo.com)
+## ✍ Working on: https://github.com/UnusualAbsurd/unusual-blogs
